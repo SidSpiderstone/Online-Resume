@@ -1,2 +1,2 @@
 # Online-Resume
-Online Resume of Muhammad Siddiq Purwongemboro Version 1.0 (Built using HTML) 
+Online Resume Version 1.0 (Built using HTML) 
